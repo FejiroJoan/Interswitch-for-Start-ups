@@ -1,0 +1,100 @@
+body{
+    width: auto;
+    height: 700px;
+    background-blend-mode: multiply;
+    background:  rgba(0, 66, 95,0.9)  url(Rectangle3802.png);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode:multiply;
+   
+}
+
+.opc{
+    color: #00425F;
+}
+
+/*
+.banner{
+    width: auto;
+    height: 700px;
+    opacity: 0.9;
+    background: #00425F;
+    background-blend-mode: multiply;
+}*/
+
+.navbar{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+  
+.logo{
+    padding-left: 2cm;
+    padding-right: none;
+    width: 3cm;
+}
+
+h6{
+    color: gray;
+}
+
+ul{
+    padding-left: 7cm;
+    padding-right: 6cm;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 25px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    margin: 0 15px;
+    border-radius: 8px;
+    background: var(--Default-gray-800, #1F2937);
+    color: white;
+    border: none;
+}
+.btn2{
+    width: 100px;
+    height: 30px;
+    margin: 0 15px;
+    border-radius: 8px;
+    background: var(--colour-activeblue-activeBlue400, #0275D8);
+    color: white;
+    border: none;
+}
+
+.sec{
+    margin: 5cm 5cm 3cm 3cm;
+    color: white;
+}
+
+h5{
+    font-size: medium;
+    color: white;
+}
+h1{
+    font-size: xx-large;
+}
+
+.btn3{
+    padding-left: 23px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 23px;
+    background: #0275D8;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+
